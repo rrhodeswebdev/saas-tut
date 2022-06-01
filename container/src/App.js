@@ -7,6 +7,6 @@ const App = () => {
             <MarketingApp />
         </>
     )
-}
+};
 
 export default App;
